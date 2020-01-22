@@ -1,0 +1,17 @@
+body {
+    height: 737px;
+    margin-left: 450px;
+    background-image: linear-gradient(#a5e65c, #42124c);
+}
+
+.board {
+    margin-left: 10px;
+    width: 604px;
+    height: 604px;
+    background: rgb(160, 243, 215);
+}
+
+#stage {
+    margin-left: 2px;
+    margin-top: 2px;
+}
