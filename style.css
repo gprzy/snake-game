@@ -15,3 +15,20 @@ body {
     margin-left: 2px;
     margin-top: 2px;
 }
+
+#score {
+    color: #a5e65c;
+    font-family: monospace;
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: 7px;
+}
+
+#timer {
+    color: #a5e65c;
+    font-family: monospace;
+    font-size: 30px;
+    margin-left: 470px;
+    position: absolute;
+    margin-top: -34px;
+}
